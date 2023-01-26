@@ -10,7 +10,10 @@
 - Simple minimal UI
 
 ## Gallery
-   https://user-images.githubusercontent.com/62275863/214817238-157f738d-1c87-4941-b993-61e51319bd0c.png
+  ![image](https://user-images.githubusercontent.com/62275863/214818353-1129348e-6b41-43f3-b65e-0f07dc2d9965.png)
+![image](https://user-images.githubusercontent.com/62275863/214818377-12b1e93d-24b3-468b-9864-e8598d6c0a2e.png)
+![image](https://user-images.githubusercontent.com/62275863/214818387-809bd0c6-e9da-4cf4-accf-a1a8781259cc.png)
+
 
 
 
