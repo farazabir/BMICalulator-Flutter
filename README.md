@@ -10,7 +10,11 @@
 - Simple minimal UI
 
 ## Gallery
-<img src="![image](https://user-images.githubusercontent.com/62275863/214815512-c49d9a20-bbda-4f2d-ba5d-ccb3241de434.png)" height=400> <img src="![image](https://user-images.githubusercontent.com/62275863/214815610-a3f52857-d98b-49af-ac72-9da4daa7232c.png)" height=400> <img src="![image](https://user-images.githubusercontent.com/62275863/214816051-567670a5-dc11-41af-9d7d-0075997142ef.png)" height=400>
+    https://user-images.githubusercontent.com/62275863/214817238-157f738d-1c87-4941-b993-61e51319bd0c.png
+
+    https://user-images.githubusercontent.com/62275863/214817250-dcdda247-5eea-4a1c-bf0c-860e8355c84d.png
+
+    https://user-images.githubusercontent.com/62275863/214817268-e25975eb-4d02-4e78-867f-6e6a58b1ad7e.png
 
 
 
